@@ -1,0 +1,14 @@
+{
+    "sql_server_address": "",
+    "sql_username": "",
+    "sql_password": "",
+    "sql_database_name": "",
+    "min_password_length": 12,
+    "require_email_verification": false,
+    "force_ssl": false,
+    "site_name": "PARLEY!",
+    "site_timezone": "America\/New_York",
+    "items_per_page": 15,
+    "theme": "twilight",
+    "show_eastereggs": false
+}
